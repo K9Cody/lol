@@ -1,0 +1,10 @@
+&r
+ &6&lWerewolf &7Help Menu &6(&f1&6/&f1&6) <> &fRequired&6, [] &fOptional
+ &f
+ &6/ww &fPrints Werewolf stats.
+ &6/ww t &fTransforms between forms.
+ &6/ww h &fGive a loud howl.
+ &6/ww g &fGive a mild growl.
+ &6/ww s &fSee the scent of your target.
+ &f
+&r

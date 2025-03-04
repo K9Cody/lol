@@ -1,0 +1,10 @@
+&r
+ &c&lVampire &7Help Menu &c(&f2&c/&f2&c) <> &fRequired&c, [] &fOptional
+ &r
+ &4/v bl &fToggle Blood Lust Mode.
+ &4/v nv &fToggle Night Vision.
+ &4/v jb &fToggle Jump Boost.
+ &r
+ &r
+ &r
+&r

@@ -1,0 +1,10 @@
+&r
+ &c&lVampire &7Help Menu &c(&f1&c/&f2&c) <> &fRequired&c, [] &fOptional
+ &f
+ &4/v &fPrint Vampire stats.
+ &4/v t &fTransform into a bat.
+ &4/v s &fGive out a loud shriek.
+ &4/v o <player> <amount> &fOffer blood.
+ &4/v a &fAccept blood.
+ &4/v bb &fFill your bottle with blood.
+&r

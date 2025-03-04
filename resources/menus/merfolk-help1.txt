@@ -1,0 +1,10 @@
+&r
+ &b&lMerfolk &7Help Menu &7(&f1&7/&f1&7) <> &fRequired&7, [] &fOptional
+ &f
+ &7/mer &fShows your stats.
+ &7
+ &f
+ &f
+ &f
+ &f
+&r

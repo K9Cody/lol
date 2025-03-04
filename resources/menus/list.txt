@@ -1,0 +1,5 @@
+&r
+ {race} &7List &8(&f{page}&8/&f{pageMax}&8)
+ &b{leaderTitle} &7(&f{leader}&7)
+{players}
+&r

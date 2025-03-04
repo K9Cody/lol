@@ -1,0 +1,139 @@
+### VAMPIRE ###
+bat-form:
+  display-name: "&cBat Form"
+  cooldown: 500
+  beneficial: true
+  level: 60
+  cost: 2
+  race: VAMPIRE
+  description:
+    - ""
+    - "  &c&lCooldown   &f{cooldown} Seconds  "
+    - ""
+    - "  &7Transform into or out of bat form. "
+    - " "
+    - "  &7You cannot build or attack as a  "
+    - "  &7bat. Any form of damage will deal "
+    - "  &7direct damage to your health.  "
+    - ""
+
+blood-lust:
+  display-name: "&cBlood Lust"
+  cooldown: 500
+  beneficial: true
+  race: VAMPIRE
+  level: 40
+  cost: 2
+  description:
+    - ""
+    - "  &c&lCooldown   &f{cooldown} Seconds  "
+    - ""
+    - "  &7Fill yourself with power and enable "
+    - "  &7lifesteal and get &bSpeed III&7.  "
+    - ""
+
+shriek:
+  display-name: "&7Shriek"
+  cooldown: 10000
+  beneficial: true
+  race: VAMPIRE
+  range: 5.0
+  level: 8
+  fatigue-length: 80
+  blindness-length: 80
+  description:
+    - ""
+    - "  &c&lCooldown   &f{cooldown} Seconds  "
+    - "  &a&lRange   &f{range} Blocks  "
+    - ""
+    - "  &7Shriek loudly and give &bBlindness&7, "
+    - "  &bMining Fatigue I I&7 for &f4 Seconds&7.  "
+    - ""
+
+### WEREWOLF ###
+wolf-form:
+  display-name: "&6Wolf Form"
+  cooldown: 3000
+  beneficial: true
+  level: 60
+  race: WEREWOLF
+  description:
+    - ""
+    - "  &c&lCooldown   &f{cooldown} Seconds  "
+    - ""
+    - "  &7Transform into or out of wolf form. "
+    - " "
+    - "  &7You get increased defense, increased "
+    - "  &7punch damage, and cannot wear armor  "
+    - "  &7while in wolf form.  "
+    - ""
+
+howl:
+  display-name: "&6Howl"
+  cooldown: 150000
+  beneficial: true
+  level: 0
+  race: WEREWOLF
+  description:
+    - ""
+    - "  &c&lCooldown   &f{cooldown} Seconds  "
+    - ""
+    - "  &7Let out a loud howl! "
+    - " "
+    - "  &7Howling under direct moonlight will "
+    - "  &7increase your Lunar Power!  "
+    - ""
+
+growl:
+  display-name: "&6Growl"
+  cooldown: 10000
+  beneficial: true
+  level: 0
+  race: WEREWOLF
+  description:
+    - ""
+    - "  &c&lCooldown   &f{cooldown} Seconds  "
+    - ""
+    - "  &7Let out a loud growl! "
+    - " "
+
+corruption:
+  display-name: "&7Corruption"
+  cooldown: 0
+  beneficial: false
+  level: 0
+  race: DEMON
+  description:
+    - ""
+    - "  &c&lCooldown   &f{cooldown} Seconds  "
+    - ""
+    - "  &7Corrupt nearby players... "
+    - " "
+
+### DEMON ###
+possess:
+  display-name: "&7Possess"
+  cooldown: 0
+  beneficial: false
+  level: 0
+  race: DEMON
+  description:
+    - ""
+    - "  &c&lCooldown   &f{cooldown} Seconds  "
+    - ""
+    - "  &7Possess an entity... "
+    - ""
+
+### ANGEL ###
+holyPresence:
+  display-name: "&eHoly Presence"
+  cooldown: 0
+  beneficial: true
+  level: 0
+  race: ANGEL
+  description:
+    - ""
+    - "  &c&lCooldown   &f{cooldown} Seconds  "
+    - ""
+    - "  &7Increase the healing of allied entities. "
+    - ""

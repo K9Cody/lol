@@ -1,0 +1,10 @@
+&r
+                      &3&lMerfolk
+ &r
+ &2&lLevel &2(&e{level} Seashells&2)
+ &a&lXP   &a(&e{exp}% LVL Up&a)
+ &r
+ &b&lBreath   &3(&f{breath}&3)
+ &r
+ &7&oUse &3&o/mer help &7&ofor a list of commands.
+&r

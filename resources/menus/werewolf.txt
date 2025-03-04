@@ -1,0 +1,10 @@
+&r
+                      &6&lWerewolf
+ &r
+ &2&lLevel &2(&e{level} Moonlight&2)
+ &a&lXP   &a(&e{exp}% LVL Up&a)
+ &6&lClan   &6(&e{clan}&6)
+ &7Fatigue   &7(&c{fatigue-time}&7)
+ &bForm Time   &b(&d{transform-time}&b)
+ &7&oUse &6&o/ww help &7&ofor a list of commands.
+&r

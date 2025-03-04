@@ -1,0 +1,642 @@
+### VAMPIRE ###
+Siphon:
+  name: "&cSiphon"
+  race: VAMPIRE
+  level: 40
+  tier: 1
+  percent: 0.5
+  material: GHAST_TEAR
+  lore:
+    - ""
+    - "  &cTier I&4: &fBlood"
+    - "  &dLevel 40"
+    - ""
+    - "  &7Gain &e50% extra&7 blood points  "
+    - "  &7when attacking.  "
+    - ""
+GluttonousDiet:
+  name: "&cGluttonous Diet"
+  race: VAMPIRE
+  level: 40
+  tier: 1
+  percent: 2.0
+  material: PIG_SPAWN_EGG
+  lore:
+    - ""
+    - "  &cTier I&4: &fBlood"
+    - "  &dLevel 40"
+    - ""
+    - "  &7Gain &edouble&7 blood points  "
+    - "  &7when drinking a blood  "
+    - "  &7bottle. "
+    - ""
+HealthyDiet:
+  name: "&cHealthy Diet"
+  race: VAMPIRE
+  level: 40
+  tier: 1
+  percent: 2.0
+  material: REDSTONE
+  lore:
+    - ""
+    - "  &cTier I&4: &fBlood"
+    - "  &dLevel 40"
+    - ""
+    - "  &7Gain &edouble&7 health points  "
+    - "  &7when drinking a human  "
+    - "  &7blood bottle. "
+    - ""
+
+Apathy:
+  name: "&7Apathy"
+  race: VAMPIRE
+  level: 60
+  tier: 2
+  percent: 0.7
+  material: WOODEN_SWORD
+  lore:
+    - ""
+    - "  &cTier II&4: &fDefense"
+    - "  &dLevel 60"
+    - ""
+    - "  &7Incoming damage from  "
+    - "  &7Wooden Stakes are reduced  "
+    - "  &7by &e30%&7.  "
+    - ""
+LastWill:
+  name: "&7Last Will"
+  race: VAMPIRE
+  level: 60
+  tier: 2
+  percent: 0.8
+  health-ratio: 0.5
+  material: SKELETON_SKULL
+  lore:
+    - ""
+    - "  &cTier II&4: &fDefense"
+    - "  &dLevel 60"
+    - ""
+    - "  &7Incoming damage is reduced  "
+    - "  &7by &e20%&7 when under &f50%  "
+    - "  &7health."
+    - ""
+NoFear:
+  name: "&7No Fear"
+  race: VAMPIRE
+  level: 60
+  tier: 2
+  percent: 0.7
+  material: WITHER_SKELETON_SKULL
+  lore:
+    - ""
+    - "  &cTier II&4: &fDefense"
+    - "  &dLevel 60"
+    - ""
+    - "  &7Incoming damage is reduced  "
+    - "  &7by &e30%&7 when in &4Blood  "
+    - "  &4Lust&7."
+    - ""
+
+ShadowsCall:
+  name: "&7Shadow's Call"
+  race: VAMPIRE
+  level: 80
+  tier: 3
+  percent: 0.5
+  light-level: 0
+  material: CLOCK
+  lore:
+    - ""
+    - "  &cTier III&4: &fLifesteal"
+    - "  &dLevel 80"
+    - ""
+    - "  &7When in &4Blood Lust&7 you  "
+    - "  &7can lifesteal off undead mobs  "
+    - "  &7for &e50% &7of living mobs.  "
+    - ""
+
+Composure:
+  name: "&7Composure"
+  race: VAMPIRE
+  level: 80
+  tier: 3
+  lifesteal: 0.3
+  material: CLOCK
+  lore:
+    - ""
+    - "  &cTier III&4: &fLifesteal"
+    - "  &dLevel 80"
+    - ""
+    - "  &7You gain lifesteal outside of  "
+    - "  &4Blood Lust&7 but only for 30%  "
+    - "  &7damage dealt.  "
+    - ""
+
+Insatiable:
+  name: "&cInsatiable"
+  race: VAMPIRE
+  level: 80
+  tier: 3
+  percent: 1.2
+  lifesteal: 1.15
+  threshold: 0.5
+  material: IRON_BLOCK
+  lore:
+    - ""
+    - "  &cTier III&4: &fLifesteal"
+    - "  &dLevel 80"
+    - ""
+    - "  &7When above 50% HP, you deal &e20%  "
+    - "  &7more damage. When below 50% HP,  "
+    - "  &7your lifesteal increases by  "
+    - "  &7by &e15%&7. This only works in  "
+    - "  &4Blood Lust&7."
+    - ""
+
+Daywalker:
+  name: "&cDaywalker"
+  race: VAMPIRE
+  level: 100
+  tier: 4
+  percent: 0
+  material: TORCH
+  lore:
+    - ""
+    - "  &cTier IV&4: &fUltimate"
+    - "  &dLevel 100"
+    - ""
+    - "  &7The sun no longer increases your   "
+    - "  &7temperature, but you are still  "
+    - "  &7vulnerable to Holy Water."
+    - ""
+
+StrongWings:
+  name: "&cStrong Wings"
+  race: VAMPIRE
+  level: 100
+  tier: 4
+  material: ELYTRA
+  lore:
+    - ""
+    - "  &cTier IV&4: &fUltimate"
+    - "  &dLevel 100"
+    - ""
+    - "  &7Bat Form and &4Blood Lust& no longer "
+    - "  &7costs blood to use.  "
+    - ""
+
+EvilPresence:
+  name: "&cEvil Presence"
+  race: VAMPIRE
+  level: 100
+  tier: 4
+  percent: 1.0
+  material: WITHER_SKELETON_SKULL
+  lore:
+    - ""
+    - "  &cTier IV&4: &fUltimate"
+    - "  &dLevel 100"
+    - ""
+    - "  &7Your blood bar becomes an extra   "
+    - "  &7health bar that depletes when  "
+    - "  &7hurt. "
+    - ""
+    - "  &4Any damage over the amount blood  "
+    - "  &4will deal normal damage.   "
+    - ""
+
+### WERWOLF ###
+Satisfied:
+  name: "&6Satisfied"
+  race: WEREWOLF
+  level: 40
+  tier: 1
+  material: COOKED_PORKCHOP
+  lore:
+    - ""
+    - "  &6Tier I&4: &fFood"
+    - "  &dLevel 40"
+    - ""
+    - "  &7The mount of food points gained from "
+    - "  &7eating meat gives you &bSaturation  "
+    - "  &7for that many ticks. "
+    - ""
+
+Omnivore:
+  name: "&6Omnivore"
+  race: WEREWOLF
+  level: 40
+  tier: 1
+  material: BAKED_POTATO
+  percent: 0.5
+  lore:
+    - ""
+    - "  &6Tier I&4: &fFood"
+    - "  &dLevel 40"
+    - ""
+    - "  &7You can eat Human food in   "
+    - "  &7Human form, however, you  "
+    - "  &7you get half the food points  "
+    - "  &7and half the saturation.  "
+    - ""
+
+Nourishment:
+  name: "&6Nourishment"
+  race: WEREWOLF
+  level: 40
+  tier: 1
+  material: COOKED_BEEF
+  percent: 0.5
+  lore:
+    - ""
+    - "  &6Tier I&4: &fFood"
+    - "  &dLevel 40"
+    - ""
+    - "  &7Meat will heal your for   "
+    - "  &7half the food points.  "
+    - ""
+
+IronWill:
+  name: "&3Iron Will"
+  race: WEREWOLF
+  level: 60
+  tier: 2
+  material: IRON_SWORD
+  percent: 0.6
+  lore:
+    - ""
+    - "  &6Tier II&4: &fResilience"
+    - "  &dLevel 60"
+    - ""
+    - "  &7Incoming damage from  "
+    - "  &7Silver Swords are  "
+    - "  &7reduced by &e40%&7.  "
+    - ""
+
+ThickSkin:
+  name: "&3Thick Skin"
+  race: WEREWOLF
+  level: 60
+  tier: 2
+  material: SHIELD
+  percent: 0.7
+  lore:
+    - ""
+    - "  &6Tier II&4: &fResilience"
+    - "  &dLevel 60"
+    - ""
+    - "  &7When sneaking, your  "
+    - "  &7incoming damage is  "
+    - "  &7reduced by 30%.  "
+    - ""
+
+SwiftFeet:
+  name: "&3Swift Feet"
+  race: WEREWOLF
+  level: 60
+  tier: 2
+  material: RABBIT_FOOT
+  percent: 0.6
+  lore:
+    - ""
+    - "  &6Tier II&4: &fResilience"
+    - "  &dLevel 60"
+    - ""
+    - "  &7If you're a Witherfang&7,  "
+    - "  &7you become immune to  "
+    - "  &bSlowness&7. If you're  "
+    - "  &7Silvermane&7, you become "
+    - "  &7immune to &bPoison &7and  "
+    - "  &bWither&7. If you're a "
+    - "  &7Bloodmoon, you become  "
+    - "  &7immune to &bInstant Damage&7.  "
+    - ""
+
+Shredder:
+  name: "&cShredder"
+  race: WEREWOLF
+  level: 80
+  tier: 3
+  material: NETHERITE_CHESTPLATE
+  durability: 5
+  lore:
+    - ""
+    - "  &6Tier III&4: &fOffense"
+    - "  &dLevel 80"
+    - ""
+    - "  &7Attacking a player will  "
+    - "  &7deal 5 extra durability  "
+    - "  &7on all their equipped  "
+    - "  &7armor."
+    - ""
+
+Relentless:
+  name: "&cRelentless"
+  race: WEREWOLF
+  level: 80
+  tier: 3
+  material: BLAZE_POWDER
+  percent: 0.85
+  duration: 100
+  lore:
+    - ""
+    - "  &6Tier III&4: &fOffense"
+    - "  &dLevel 80"
+    - ""
+    - "  &7Attacking a player will  "
+    - "  &7reduce their outgoing"
+    - "  &7damage by 15% for &f5 "
+    - "  &7seconds.  "
+    - ""
+
+Beastmaster:
+  name: "&4Beastmaster"
+  race: WEREWOLF
+  level: 80
+  tier: 3
+  material: EGG
+  damage: 1
+  wolf-buff: 1.5
+  range: 64
+  max-damage: 10
+  lore:
+    - ""
+    - "  &6Tier III&4: &fOffense"
+    - "  &dLevel 80"
+    - ""
+    - "  &7Your attacks increase  "
+    - "  &7by 1 DMG for every "
+    - "  &7wolf up to 10 DMG "
+    - "  &7within 64 Blocks.  "
+    - ""
+    - "  &7Your tamed wolves in  "
+    - "  &7this vicinity will  "
+    - "  &7deal 50% more damage.  "
+    - ""
+
+Rabies:
+  name: "&4Rabies"
+  race: WEREWOLF
+  level: 100
+  tier: 4
+  material: GHAST_TEAR
+  percent: 0.002
+  interval: 5
+  times: 10
+  lore:
+    - ""
+    - "  &6Tier IV&4: &fUltimate"
+    - "  &dLevel 100"
+    - ""
+    - "  &7Your attack gives rabies  "
+    - "  &7to your target. Rabies  "
+    - "  &7depletes the enemy's health  "
+    - "  &7by 0.02% every 5 ticks up to  "
+    - "  &75 times. Haste multiplies this  "
+    - "  &7effect per level.  "
+    - ""
+
+Amplify:
+  name: "&4Amplify"
+  race: WEREWOLF
+  level: 100
+  tier: 4
+  material: POTION
+  amplify: 1
+  lore:
+    - ""
+    - "  &6Tier IV&4: &fUltimate"
+    - "  &dLevel 100"
+    - ""
+    - "  &7Your potion effect  "
+    - "  &7passive increase by  "
+    - "  &71 both in Human form  "
+    - "  &7and Werewolf form.  "
+    - ""
+
+Disable:
+  name: "&4Disable"
+  race: WEREWOLF
+  level: 100
+  tier: 4
+  material: BARRIER
+  percent: 0.1
+  duration: 30
+  lore:
+    - ""
+    - "  &7Your attacks have a  "
+    - "  &710% chance to disable "
+    - "  &7the current item in "
+    - "  &7your opponents hand  "
+    - "  &7for 1.5 seconds. Activating  "
+    - "  &7again will refresh the  "
+    - "  &7duration.  "
+    - ""
+
+### HUMAN ###
+VampirePursuit:
+  name: "&cVampire Pursuit"
+  race: HUMAN
+  level: 40
+  tier: 1
+  material: GLOWSTONE_DUST
+  percent: 2.0
+  lore:
+    - ""
+    - "  &bTier II&4: &fTracking"
+    - "  &dLevel 40"
+    - ""
+    - "  &7Your Vampire Tracker's  "
+    - "  &7range is increased by  "
+    - "  &7double.  "
+    - ""
+
+WerewolfPursuit:
+  name: "&cWerewolf Pursuit"
+  race: HUMAN
+  level: 40
+  tier: 1
+  material: IRON_NUGGET
+  percent: 1.5
+  lore:
+    - ""
+    - "  &bTier II&4: &fTracking"
+    - "  &dLevel 40"
+    - ""
+    - "  &7Your Werewolf Tracker's  "
+    - "  &7range is increased by  "
+    - "  &7double.  "
+    - ""
+
+DemonPursuit:
+  name: "&cDemon Pursuit"
+  race: HUMAN
+  level: 40
+  tier: 1
+  material: SUGAR
+  percent: 1.5
+  lore:
+    - ""
+    - "  &bTier II&4: &fTracking"
+    - "  &dLevel 40"
+    - ""
+    - "  &7Your Demons Tracker's  "
+    - "  &7range is increased by  "
+    - "  &7double.  "
+    - ""
+
+VampireSlayer:
+  name: "&cVampire Slayer"
+  race: HUMAN
+  level: 60
+  tier: 2
+  material: WOODEN_SWORD
+  food: 3
+  lore:
+    - ""
+    - "  &bTier II&4: &fSpecialization"
+    - "  &dLevel 60"
+    - ""
+    - "  &7Your Wooden Stake  "
+    - "  &7takes a vampire's  "
+    - "  &7blood by 2 FP.  "
+    - ""
+
+WerewolfSlayer:
+  name: "&cWerewolf Slayer"
+  race: HUMAN
+  level: 60
+  tier: 2
+  material: IRON_SWORD
+  percent: 1.4
+  lore:
+    - ""
+    - "  &bTier II&4: &fSpecialization"
+    - "  &dLevel 60"
+    - ""
+    - "  &7Your Silver Sword  "
+    - "  &7does 40% more damage. "
+    - ""
+    -
+DemonSlayer:
+  name: "&cDemon Slayer"
+  race: HUMAN
+  level: 60
+  tier: 2
+  material: GOLDEN_SWORD
+  lore:
+    - ""
+    - "  &bTier II&4: &fSpecialization"
+    - "  &dLevel 60"
+    - ""
+    - "  &7To be determined... "
+    - ""
+
+HolyArmor:
+  name: "&eHoly Armor"
+  race: HUMAN
+  level: 80
+  tier: 3
+  material: GOLDEN_CHESTPLATE
+  percent: 0.9
+  lore:
+    - ""
+    - "  &bTier III&4: &fPurification"
+    - "  &dLevel 80"
+    - ""
+    - "  &7Increases your Purified  "
+    - "  &7Armor against vampires  "
+    - "  &7by 10%.  "
+    - ""
+
+RazorResistance:
+  name: "&eRazor Resistance"
+  race: HUMAN
+  level: 80
+  tier: 3
+  material: IRON_CHESTPLATE
+  percent: 0.85
+  lore:
+    - ""
+    - "  &bTier III&4: &fPurification"
+    - "  &dLevel 80"
+    - ""
+    - "  &7Increases your Purified  "
+    - "  &7Armor against werewolves  "
+    - "  &7by 15%.  "
+    - ""
+
+Radiance:
+  name: "&eRadiance"
+  race: HUMAN
+  level: 80
+  tier: 3
+  material: GOLDEN_CHESTPLATE
+  percent: 0.85
+  lore:
+    - ""
+    - "  &bTier III&4: &fPurification"
+    - "  &dLevel 80"
+    - ""
+    - "  &7Increases your Purified  "
+    - "  &7Armor against demons  "
+    - "  &7by 15%.  "
+    - ""
+
+Executioner:
+  name: "&cExecutioner"
+  race: HUMAN
+  level: 100
+  tier: 4
+  material: REDSTONE
+  duration: 40
+  percent: 1.15
+  health-ratio: 0.333
+  range: 16
+  lore:
+    - ""
+    - "  &bTier IV&4: &fUltimate"
+    - "  &dLevel 100"
+    - ""
+    - "  &7If your tracker target is  "
+    - "  &7below 33% HP, they glow  "
+    - "  &7and get 15% more incoming  "
+    - "  &7within 16 Blocks from you.  "
+    - ""
+
+GuardianAngel:
+  name: "&cGuardian Angel"
+  race: HUMAN
+  level: 100
+  tier: 4
+  material: FEATHER
+  percent: 0.25
+  heal: 5.0
+  delay: 160
+  lore:
+    - ""
+    - "  &bTier IV&4: &fUltimate"
+    - "  &dLevel 100"
+    - ""
+    - "  &7When you reach 25%  "
+    - "  &7HP, you get a burst  "
+    - "  &7of healing by 5 HP.  "
+    - "  &7(This has a cooldown  "
+    - "  &7of 8 seconds.)  "
+    - ""
+
+Fortify:
+  name: "&cFortify"
+  race: HUMAN
+  level: 100
+  tier: 4
+  material: TOTEM_OF_UNDYING
+  durability: 0.75
+  lore:
+    - ""
+    - "  &bTier IV&4: &fUltimate"
+    - "  &dLevel 100"
+    - ""
+    - "  &7Your Purified Armor takes 75%  "
+    - "  &7less durability damage.  "
+    - ""

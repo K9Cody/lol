@@ -1,0 +1,10 @@
+&r
+                          &c&lVampire
+ &r
+ &2&lLevel &2(&e{level} Days&2)
+ &a&lXP   &a(&e{exp}% LVL Up&a)
+ &c&lTemperature   &c(&f{temperature}°&c)
+ &b&lMob Truce   &b(&d{truce}&b)
+ &r
+ &7&oUse &6&o/v help &7&ofor a list of commands.
+&r

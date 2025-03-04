@@ -1,0 +1,10 @@
+&r
+ &6&lAdmin &7Help Menu &6(&f2&6/&f2&6) <> &fRequired&6, [] &fOptional
+ &r
+ &6/ra leader <player> &fSet leader of player's race.
+ &6/ra level <add/set/remove> <level> [player] &fSet player level.
+ &6/ra purge &fRemoves all corrupted player data.
+ &r
+ &r
+ &r
+&r

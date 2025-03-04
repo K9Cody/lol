@@ -1,0 +1,576 @@
+GOLDENCOOKEDBEEF:
+  name: "&fGolden Steak"
+  custom-model-data: 1000
+GOLDENCOOKEDCHICKEN:
+  name: "&fGolden Cooked Chicken"
+  custom-model-data: 1000
+GOLDENCOOKEDCOD:
+  name: "&fGolden Cooked Cod"
+  custom-model-data: 1000
+GOLDENCOOKEDMUTTON:
+  name: "&fGolden Cooked Mutton"
+  custom-model-data: 1000
+GOLDENCOOKEDPORKCHOP:
+  name: "&fGolden Cooked Porkchop"
+  custom-model-data: 1000
+GOLDENCOOKEDRABBIT:
+  name: "&fGolden Cooked Rabbit"
+  custom-model-data: 1000
+GOLDENCOOKEDSALMON:
+  name: "&fGolden Cooked Salmon"
+  custom-model-data: 1000
+CUREPOTION:
+  name: "&dCure Potion"
+  lore:
+    - ""
+    - "  &7This bottle glows a white  "
+    - "  &7light. They say it can  "
+    - "  &7cure serious infections.  "
+    - ""
+INFECTIONPOTION:
+  name: "&6Unknown Potion"
+  lore:
+    - ""
+    - "  &7This bottle reeks! Best  "
+    - "  &7not drink this.  "
+    - ""
+HUMANBLOODBOTTLE:
+  name: "&cBottle o' Human Blood"
+  lore:
+    - ""
+    - "  &7Red blood extracted  "
+    - "  &7from players.  "
+    - ""
+VAMPIREBLOODBOTTLE:
+  name: "&7Bottle o' Vampiric Blood"
+  lore:
+    - ""
+    - "  &7Black blood extracted  "
+    - "  &7from players.  "
+    - ""
+HOLYWATER:
+  name: "&eHoly Water"
+  lore:
+    - ""
+    - "  &7Water blessed by a Human Priest.  "
+    - ""
+ANIMALBLOODBOTTLE:
+  name: "&cBottle o' {mob} Blood"
+  lore:
+    - ""
+    - "  &7Red blood extracted  "
+    - "  &7from {mob}.  "
+    - ""
+TIDALCONCH:
+  name: "&bTidal Conch"
+  lore:
+    - ""
+    - "  &7It's rumored that  "
+    - "  &7this holds magic  "
+    - "  &7properties...  "
+    - ""
+WEREWOLFTRACKER:
+  name: "&6Werewolf Tracker"
+  lore:
+    - ""
+    - "  &7This can sense the  "
+    - "  &7essence of nearby  "
+    - "  &7Werewolves...  "
+    - ""
+VAMPIRETRACKER:
+  name: "&cVampire Tracker"
+  lore:
+    - ""
+    - "  &7This can sense the  "
+    - "  &7essence of nearby  "
+    - "  &7Vampires...  "
+    - ""
+MERFOLKTRACKER:
+  name: "&bMerfolk Tracker"
+  lore:
+    - ""
+    - "  &7This can sense the  "
+    - "  &7essence of nearby  "
+    - "  &7Merfolk...  "
+    - ""
+LITTLEFLAME:
+  name: "&4Little Flame"
+  lore:
+    - ""
+    - "  &7It's rumored that  "
+    - "  &7this holds magic  "
+    - "  &7properties...  "
+    - ""
+
+WOLFSBANEPOTION:
+  name: "&6Wolfsbane Potion"
+  lore:
+    - ""
+    - "  &7Returns a &6Werewolf  "
+    - "  &7back to their human  "
+    - "  &7form.  "
+    - ""
+SILVERSWORD:
+  name: "&fSilver Sword"
+  custom-model-data: 1001
+  lore:
+    - ""
+    - "  &7Deals double damage  "
+    - "  &7against &6Werewolves&7.  "
+    - ""
+
+WOODENSTAKE:
+  name: "&cWooden Stake"
+  custom-model-data: 0
+  lore:
+    - ""
+    - "  &7Deals double damage  "
+    - "  &7against &cVampires&7.  "
+    - ""
+
+SCALERKNIFE:
+  name: "&bScaler Knife"
+  lore:
+    - ""
+    - "  &7Deals double damage  "
+    - "  &7against &bMerfolk&7.  "
+    - ""
+
+### ARMOR ###
+WASHEDLEATHERBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Leather Boots'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDLEATHERLEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Leather Leggings'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDLEATHERCHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Leather Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDLEATHERHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Leather Helmet'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDGOLDENBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Golden Boots'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDGOLDENLEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Golden Leggings'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDGOLDENCHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Golden Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDGOLDENHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Golden Helmet'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDCHAINMAILBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Chainmail Boots'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDCHAINMAILLEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Chainmail Leggings'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDCHAINMAILCHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Chainmail Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDCHAINMAILHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Chainmail Helmet'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDIRONBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Iron Boots'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDIRONLEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed IRON Leggings'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDIRONCHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Iron Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDIRONHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Iron Helmet'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDDIAMONDBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Diamond Boots'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDDIAMONDLEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Diamond Leggings'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDDIAMONDCHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Diamond Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDDIAMONDHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Diamond Helmet'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDNETHERITEBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Netherite Boots'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDNETHERITELEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Netherite Leggings'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDNETHERITECHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Netherite Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+WASHEDNETHERITEHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&eWashed Netherite Helmet'
+  lore:
+    - ''
+    - '  &7Use this to prevent all  '
+    - '  &7infections.  '
+    - ''
+PURIFIEDLEATHERBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Leather Boots'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDLEATHERLEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Leather Leggings'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDLEATHERCHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Leather Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDLEATHERHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Leather Helmet'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDGOLDENBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Golden Boots'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDGOLDENLEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Golden Leggings'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDGOLDENCHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Golden Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDGOLDENHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Golden Helmet'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDCHAINMAILBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Chainmail Boots'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDCHAINMAILLEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Chainmail Leggings'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDCHAINMAILCHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Chainmail Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDCHAINMAILHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Chainmail Helmet'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDIRONBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Iron Boots'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDIRONLEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Iron Leggings'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDIRONCHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Iron Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDIRONHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Iron Helmet'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDDIAMONDBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Diamond Boots'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDDIAMONDLEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Diamond Leggings'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDDIAMONDCHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Diamond Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDDIAMONDHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Diamond Helmet'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDNETHERITEBOOTS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Netherite Boots'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDNETHERITELEGGINGS:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Netherite Leggings'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDNETHERITECHESTPLATE:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Netherite Chestplate'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+PURIFIEDNETHERITEHELMET:
+  purity: 0.25
+  defense: 0
+  name: '&ePurified Netherite Helmet'
+  lore:
+    - ''
+    - '  &7Use this to armor yourself  '
+    - '  &7against the supernatural.  '
+    - ''
+ASH:
+  name: "&7Ash"
+  lore:
+    - "  &7The failed remains of  "
+    - "  &7the purification process.  "
