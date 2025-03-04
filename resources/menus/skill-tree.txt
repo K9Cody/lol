@@ -1,5 +1,0 @@
-&r
- {race} &7Skill Tree &8(&eLVL {level}&8)
- &f
-{skills}
-&r
